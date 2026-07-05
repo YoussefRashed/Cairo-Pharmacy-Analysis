@@ -21,7 +21,7 @@ The pharmacy needed answers to 4 critical questions:
 ## Dashboard Screenshots
 
 ### Page 1 — Sales Performance
-![Sales Performance](images/Page 1 Sales performance.png)
+![Sales Performance](images/Page_1_Sales_Performance.png)
 
 ### Page 2 — Movement Analysis
 ![Movement Analysis](images/Page2_Movement_Analysis.png)
