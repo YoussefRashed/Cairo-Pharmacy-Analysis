@@ -18,6 +18,23 @@ The pharmacy needed answers to 4 critical questions:
 3. Which products should we reorder vs discontinue?
 4. What does our stock movement pattern look like?
 
+## Dashboard Screenshots
+
+### Page 1 — Sales Performance
+![Sales Performance](images/Page 1 Sales performance.png)
+
+### Page 2 — Movement Analysis
+![Movement Analysis](images/Page2_Movement_Analysis.png)
+
+### Page 3 — Dead Stock Alert
+![Dead Stock Alert](images/Page3_Dead_Stock_Alert.png)
+
+### Page 4 — Top Sellers
+![Top Sellers](images/Page4_Top_Sellers.png)
+
+### Data Model
+![Star Schema](images/Page 5 Model View.png)
+
 ## Key Findings
 
 | Finding | Value |
