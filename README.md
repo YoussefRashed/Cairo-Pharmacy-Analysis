@@ -154,7 +154,7 @@ business conditions in the Egyptian pharmaceutical retail market.
 
 ## Version 2 — In Progress
 
-- [ ] Full scientific categorization (24 therapeutic classes)
+- [ ] Full scientific categorization
 - [ ] Drill-through pages for product-level analysis  
 - [ ] Python demand forecasting model
 - [ ] Tooltip pages for enhanced interactivity
