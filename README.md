@@ -2,7 +2,22 @@
 A complete pharmacy business intelligence system built on real operational data from an active retail pharmacy in Cairo, Egypt. This project analyzes 18,835 pharmaceutical products and 288,000 sales transactions across 2024–2025 to deliver actionable inventory management and revenue insights.
 # Pharmacy Analytics Dashboard
 ### Business Intelligence System — Cairo Retail Pharmacy
+## Dashboard Screenshots
 
+### Page 1 — Sales Performance
+![Sales Performance](images/Page1_Sales_Performance.png)
+
+### Page 2 — Movement Analysis
+![Movement Analysis](images/Page2_Stock_Performance.png)
+
+### Page 3 — Dead Stock Alert
+![Dead Stock Alert](images/Page3_Inventory_Risk_Analysis.png)
+
+### Page 4 — Top Sellers
+![Top Sellers](images/Page4_Top_Sellers.png)
+
+### Data Model — Star Schema
+![Data Model](images/Page5_Model_View.png)
 ## Overview
 A complete pharmacy BI system analyzing real operational 
 data from an active Cairo retail pharmacy. Built to solve 
