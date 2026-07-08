@@ -16,7 +16,7 @@ A complete pharmacy business intelligence system built on real operational data 
 ### Page 4 — Top Sellers
 ![Top Sellers](images/Page4_Top_Sellers.png)
 
-### Data Model — Star Schema
+### Data Model — Snowflake Schema
 ![Data Model](images/Page5_Model_View.png)
 ## Overview
 A complete pharmacy BI system analyzing real operational 
